@@ -133,6 +133,7 @@
 		659A4A5419CD74B4008CDED2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 659A4A5319CD74B4008CDED2 /* AppDelegate.m */; };
 		659A4A5719CD74B4008CDED2 /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 659A4A5619CD74B4008CDED2 /* HelloWorldLayer.m */; };
 		659A4A5A19CD74B4008CDED2 /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 659A4A5919CD74B4008CDED2 /* IntroLayer.m */; };
+		659A4A6219CD763B008CDED2 /* XIacg.m in Sources */ = {isa = PBXBuildFile; fileRef = 659A4A6119CD763B008CDED2 /* XIacg.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -398,6 +399,8 @@
 		659A4A5619CD74B4008CDED2 /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		659A4A5819CD74B4008CDED2 /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		659A4A5919CD74B4008CDED2 /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		659A4A6019CD763B008CDED2 /* XIacg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XIacg.h; sourceTree = "<group>"; };
+		659A4A6119CD763B008CDED2 /* XIacg.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XIacg.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -456,6 +459,8 @@
 		659A48DA19CD74B2008CDED2 /* ONEGame */ = {
 			isa = PBXGroup;
 			children = (
+				659A4A6019CD763B008CDED2 /* XIacg.h */,
+				659A4A6119CD763B008CDED2 /* XIacg.m */,
 				659A4A5219CD74B4008CDED2 /* AppDelegate.h */,
 				659A4A5319CD74B4008CDED2 /* AppDelegate.m */,
 				659A4A5519CD74B4008CDED2 /* HelloWorldLayer.h */,
@@ -920,6 +925,7 @@
 				659A496D19CD74B3008CDED2 /* CCParticleSystemQuad.m in Sources */,
 				659A499F19CD74B3008CDED2 /* CCTextureAtlas.m in Sources */,
 				659A4A5419CD74B4008CDED2 /* AppDelegate.m in Sources */,
+				659A4A6219CD763B008CDED2 /* XIacg.m in Sources */,
 				659A49C819CD74B3008CDED2 /* CCDirectorIOS.m in Sources */,
 				659A49C119CD74B3008CDED2 /* cocos2d.m in Sources */,
 				659A491A19CD74B3008CDED2 /* CCActionTiledGrid.m in Sources */,
